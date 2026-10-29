@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/.*": false
+    },
+    "geminicodeassist.enable":false
+}
